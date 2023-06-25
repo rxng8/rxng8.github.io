@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Viet Dung Nguyen"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Viet Dung Nguyen"
-description              : &description "My description here"
-url                      : https://rxng8.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rxng8/rxng8.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -31,8 +31,8 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['Viet Dung Nguyen', 'vn1747 [at] rit.edu', 'url', 'message']
-  branch                 : "master" # "master", "gh-pages"
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Viet Dung Nguyen"
-  avatar           : "ava.png"
-  bio              : "Viet Dung Nguyen is a Ph.D. Candidate at Rochester Institute of Technology. He is working with Dr. Reynold Bailey in the Computer Graphics & Applied Perception Lab and Dr. Alexander G. Ororbia in the Neural Adaptive Computing Lab. His research focuses on Computer Vision, Reinforcement Learning, and Active Inference. One of his current works is in the eye-tracking field: developing a machine learning algorithm for an eye segmentation network to perform on multiple domains. Another research topic is developing a model-based reinforcement learning algorithm for autonomous systems using human perception and actions. His current work also focuses on building an active inference system where an AI agent can see and understand the world as the human does."
-  location         : "Rochester, NY, USA"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "vn1747 [at] gmail.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rxng8"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
