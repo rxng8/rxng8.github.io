@@ -69,6 +69,15 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
+Services and leaderships
 ======
 * Currently serving as a publicity chair at PerCom 2024, IEEE.
+* NSF's AWARE-AI NRT Trainee 2022 and 2023
+
+Projects
+======
+* **Facebook/Meta Funded Event-based Eye Tracking Project**: Detected pupil and iris ellipse using event stream from the DVS sensor to perform gaze tracking.
+* **Facebook/Meta Funded Deep Domain Adaptation Project**: Minimized the domain shift across different eye segmentation datasets. Yielded positive results and finished manuscripts.
+* **Reinforcement Learning through Active Inference**: Built agent to solve reinforcement learning robotics tasks using generative model of the world and active inference.
+
+
