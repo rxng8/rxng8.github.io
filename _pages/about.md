@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Viet Dung Nguyen is a Ph.D. Candidate at Rochester Institute of Technology. He is working with Dr. Reynold Bailey in the Computer Graphics & Applied Perception Lab and Dr. Alexander G. Ororbia in the Neural Adaptive Computing Lab. His research focuses on Computer Vision, Reinforcement Learning, and Active Inference. One of his current works is in the eye-tracking field: developing a machine learning algorithm for an eye segmentation network to perform on multiple domains. Another research topic is developing a model-based reinforcement learning algorithm for autonomous systems using human perception and actions. His current work also focuses on building an active inference system where an AI agent can see and understand the world as the human does.
+Viet Nguyen is a PhD candidate in Computing and Information Sciences at the Rochester Institute of Technology. He is working with Dr. Reynold Bailey in the Computer Graphics & Applied Perception Lab and Dr. Alexander G. Ororbia in the Neural Adaptive Computing Lab. His research spans machine learning, computer vision, eye tracking, reinforcement learning, and robotics. His PhD dissertation focuses on using active inference and model-based reinforcement learning to develop autonomous robotic systems that incorporate human perception and actions as integral components. Viet aims to publish at top-tier conferences like AAAI, ICRA, ICML, and CVPR, with two publications already in AAAI. He's also serving as the publicity chair for PerCom 2024 (IEEE), contributing to academic collaboration.
 
 
 

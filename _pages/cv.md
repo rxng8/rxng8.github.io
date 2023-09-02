@@ -11,25 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computing and Information Sciences, Rochester Institute of Technology, 2026 (expected)
-* B.S. in Computer Science, Gettysburg College, 2022
+* Ph.D in Computing and Information Sciences, Rochester Institute of Technology, 2026 (expected). GPA: 3.78
+* B.S. in Computer Science, Gettysburg College, 2022. GPA: 3.93
 
 Work experience
 ======
 
-* August 2022 - Present: Graduate Research Assistant. Computer Graphics and Applied Vision Lab. Rochester, NY, USA.
-  * Leading an Eye Tracking project (Deep Domain Adaptation for Eye Segmentation) funded by Facebook/Meta
-  * Writing the corresponding manuscript for the project
-  * Delivering new methodologies and results for the domain adaptation problem in eye segmentation
+* August 2022 - Present: Graduate Research Assistant. Computer Graphics and Applied Perception Lab. Rochester, NY, USA.
+  * Leading an event-based eye tracking project and developing new machine learning algorithms for event data
+  * Led an eye tracking project (eye segmentation and sim2real) funded by Meta that resulted in a manuscript
+  * Presented reports to co-PIs and Meta's main investigator
 
 * August 2022 - Present: Graduate Research Assistant. Neural Adaptive Computing Lab. Rochester, NY, USA.
-  * Implementing popular reinforcement learning algorithms that serve as baselines for further research
-  * Researching and preparing PhD proposal on Continual Reinforcement Learning
+  * Leading a reinforcement learning project that applies active inference to robotics
+  * Collaborating with another robotics laboratory and working on improving deep reinforcement learning system
 
 * April 2021 - August 2021: Software Engineer Intern. Forestry Information System JSC. Hanoi, Vietnam.
-  * Prototyped, developed, tested, and deployed an iOS application for wildfire detection using React Native and Swift
-  * Prepared, wrote, and presented documentation, requirements, deliverables, and project outline for mobile applications
-  * Developed deep learning wildfire detection models which were deployed on embedded cameras in actual forests
+  * Created and deployed an iOS wildfire detection app using React Native and Swift
+  * Created and presented comprehensive documentation, requirements, and deliverables for mobile app projects
+  * Engineered deep learning wildfire detection models for deployment on embedded forest cameras
 
 
 <!-- * Summer 2015: Research Assistant
@@ -79,5 +79,4 @@ Projects
 * **Facebook/Meta Funded Event-based Eye Tracking Project**: Detected pupil and iris ellipse using event stream from the DVS sensor to perform gaze tracking.
 * **Facebook/Meta Funded Deep Domain Adaptation Project**: Minimized the domain shift across different eye segmentation datasets. Yielded positive results and finished manuscripts.
 * **Reinforcement Learning through Active Inference**: Built agent to solve reinforcement learning robotics tasks using generative model of the world and active inference.
-
 
